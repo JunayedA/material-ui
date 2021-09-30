@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import { Button, Rating, Slider } from '@mui/material';
+import Newspaper from './components/Newspaper/Newspaper';
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
   valueLabelDisplay="auto"
 />
 <Slider defaultValue={50} aria-label="Default" valueLabelDisplay="auto" />
+    <Newspaper></Newspaper>
     </div>
   );
 }
