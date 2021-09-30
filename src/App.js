@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { Button, Rating, Slider } from '@mui/material';
 import Newspaper from './components/Newspaper/Newspaper';

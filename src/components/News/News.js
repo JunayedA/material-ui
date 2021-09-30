@@ -1,4 +1,4 @@
-import { Avatar, Card, CardActions, CardContent, CardHeader, CardMedia, Collapse, IconButton, Typography } from '@mui/material';
+import { Avatar, Card, CardContent, CardHeader, CardMedia, Typography } from '@mui/material';
 import React from 'react';
 
 const News = (props) => {
